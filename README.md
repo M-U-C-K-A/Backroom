@@ -1,3 +1,7 @@
+<img width="20%" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT.JS" />
+<img width="20%" src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white" alt="NEXT.JS" />
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
